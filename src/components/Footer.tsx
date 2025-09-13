@@ -97,8 +97,8 @@ const Footer = () => {
               <div>
                 <div className="font-semibold mb-1">Contact</div>
                 <div className="text-gray-400 text-sm">
-                  Tel: +41 22 739 8111<br />
-                  Emergency: +41 22 739 8111
+                  Tel: +1(236)349-0846<br />
+                  Emergency: +447877442607
                 </div>
               </div>
             </div>
@@ -107,8 +107,8 @@ const Footer = () => {
               <div>
                 <div className="font-semibold mb-1">Email</div>
                 <div className="text-gray-400 text-sm">
-                  hqpi00@unhcr.org<br />
-                  media@unhcr.org
+                  unhcrkenya809@gmail.com<br />
+                  unhcrsettlement@gmail.com
                 </div>
               </div>
             </div>
